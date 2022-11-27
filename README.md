@@ -64,4 +64,4 @@ To pull changes from github repo
 ```
 git pull origin main
 ```
-Note: origin--> contains url to your github repo main--> is your branch name
+Note: origin--> contains url to your github repo main--> is your branch name.
